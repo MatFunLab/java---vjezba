@@ -1,1 +1,1 @@
-# graphics
+# Some Inkscape projects
