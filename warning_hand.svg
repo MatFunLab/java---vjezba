@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 21.0007 21.0007"
+   height="70"
+   width="70">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-297.25528)"
+     id="layer1">
+    <g
+       transform="matrix(0.33619827,0,0,0.33619827,42.84846,245.40816)"
+       id="g1924">
+      <g
+         id="g1884"
+         style="stroke-linecap:round">
+        <path
+           id="path1878"
+           d="m -91.522872,187.94196 v 21.62249"
+           style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -103.03899,187.94196 v 21.62249"
+           id="path1880" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -103.03899,187.94196 h 11.516118"
+         id="path1886" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -91.522872,187.94196 8.141057,-8.14106 -2.176237,-8.12183"
+         id="path1888" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -85.558052,171.67907 -7.550868,4.35949 1.708141,2.95859 3.597098,-2.07679"
+         id="path1890" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -90.003,173.6083 V 159.03639"
+         id="path1892" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -90.003,159.15747 h -3.717025"
+         id="path1894" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -93.720025,159.16602 V 177.9557"
+         id="path1896" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -93.967419,168.33134 h -3.214391 v 9.96462 h 3.214392"
+         id="path1898" />
+      <path
+         id="path1902"
+         d="m -97.117626,168.33134 h -3.483524 v 10.79893 h 3.483525"
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1904"
+         d="m -100.8335,168.33134 h -3.11975 v 9.67121 h 3.11976"
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -103.03899,187.94196 -2.7159,-4.70407 v -12.72164"
+         id="path1906" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.20003998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -103.95325,168.25098 -1.80164,2.26527"
+         id="path1908" />
+    </g>
+  </g>
+</svg>
